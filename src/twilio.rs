@@ -1,15 +1,3 @@
-// #[macro_use] extern crate rocket;
-
-// #[get("/")]
-// fn index() -> &'static str {
-//     "Hello, world!"
-// }
-
-// #[launch]
-// fn rocket() -> _ {
-//     rocket::build().mount("/", routes![index])
-// }
-
 use dotenv;
 use openapi::apis::{configuration::Configuration, default_api as twilio_api};
 use std::env;
@@ -37,21 +25,18 @@ async fn main() {
     None,
     None,
     None,
-    None,
-    None,
-    None,
-    None,
-    None,
-    None,
-    None,
-    None,
-    None,
+    Some("Ahoy, Rustacean! 🦀"),
     None,
     None,
     Some(&from),
     None,
-    Some("Ahoy, Rustacean! 🦀"),
-    None
+    None,
+    None,
+    None,
+    None,
+    None,
+    None,
+    None,
   )
   .await;
 
