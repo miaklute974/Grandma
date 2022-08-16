@@ -1,21 +1,11 @@
-// #[macro_use] extern crate rocket;
-
-// #[get("/")]
-// fn index() -> &'static str {
-//     "Hello, world!"
-// }
-
-// #[launch]
-// fn rocket() -> _ {
-//     rocket::build().mount("/", routes![index])
-// }
-
+#[macro_use] extern crate rocket;
 use dotenv;
 use openapi::apis::{configuration::Configuration, default_api as twilio_api};
 use std::env;
 
+#[get("/")]
 #[tokio::main]
-async fn main() {
+async fn index() {
   // Securely import sensitive credentials and values from `.env` instead of inlining their values.
   dotenv::dotenv().expect("Failed to read .env file");
   let account_sid = env::var("TWILIO_ACCOUNT_SID").expect("Failed to parse Account SID");
@@ -63,3 +53,11 @@ async fn main() {
   // Once successful, print out the SID of the sent message.
   println!("{:?}", result.sid);
 }
+
+#[launch]
+fn rocket() -> _ {
+    rocket::build().mount("/", routes![index])
+}
+
+
+
