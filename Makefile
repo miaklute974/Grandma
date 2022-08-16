@@ -1,3 +1,7 @@
+run:
+	@echo "Running dev server!"
+	cargo run src/main.rs
+
 deploy:
 	@echo "Deploying!"
 	git checkout main
