@@ -15,5 +15,5 @@ assignees: ''
 ### Details
 <!--- Dive into details about what needs to be done, offering hints/docs links/code references if possible/applicable --->
 
-### Acceptance Criteri
+### Acceptance Criteria
 <!--- Should list the things needed to consider this issue completed --->
