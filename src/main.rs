@@ -50,7 +50,7 @@ async fn main() {
     None,
     Some(&from),
     None,
-    Some("Ahoy, Rustacean! 🦀"),
+    Some("Hey, buddy! 🦀"),
     None
   )
   .await;
