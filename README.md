@@ -5,6 +5,12 @@ A project that helps my grandma sell some of my grandpa's stuff
 
 [Rocket 🚀](https://rocket.rs/) & [Twilio 📱](https://www.twilio.com/)
 
+## Built by
+@maxhealy01 & @tannaurus
+
+## Built for
+@grandma
+
 ## Contributing
 
 Building the Rocket dev server on your local branch
