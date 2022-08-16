@@ -6,10 +6,10 @@ A project that helps my grandma sell some of my grandpa's stuff
 [Rocket 🚀](https://rocket.rs/) & [Twilio 📱](https://www.twilio.com/)
 
 ## Built by
-@maxhealy01 & @tannaurus
+[Max Healy](https://github.com/maxhealy01) & [Tanner Gill](https://github.com/tannaurus)
 
 ## Built for
-@grandma
+Grandma
 
 ## Contributing
 
