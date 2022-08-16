@@ -4,7 +4,6 @@ use openapi::apis::{configuration::Configuration, default_api as twilio_api};
 use std::env;
 
 #[get("/")]
-#[tokio::main]
 async fn index() {
   // Securely import sensitive credentials and values from `.env` instead of inlining their values.
   dotenv::dotenv().expect("Failed to read .env file");
