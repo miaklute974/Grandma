@@ -8,5 +8,5 @@ edition = "2021"
 [dependencies]
 rocket = { version = "0.5.0-rc.2"}
 dotenv = "0.15.0"
-openapi = { path = "../twilio-rust" }
+openapi = { path = "./twilio-rust" }
 tokio = { version = "1.14.0", features = ["full"] }
