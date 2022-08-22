@@ -1,0 +1,11 @@
+/Users/maxhealy/Desktop/coding/personal_projects/twilio-rust/target/debug/deps/tinyvec-e195dbfc81660eb2.rmeta: /Users/maxhealy/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.6.0/src/lib.rs /Users/maxhealy/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.6.0/src/array.rs /Users/maxhealy/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.6.0/src/array/generated_impl.rs /Users/maxhealy/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.6.0/src/arrayvec.rs /Users/maxhealy/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.6.0/src/arrayvec_drain.rs /Users/maxhealy/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.6.0/src/slicevec.rs /Users/maxhealy/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.6.0/src/tinyvec.rs
+
+/Users/maxhealy/Desktop/coding/personal_projects/twilio-rust/target/debug/deps/tinyvec-e195dbfc81660eb2.d: /Users/maxhealy/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.6.0/src/lib.rs /Users/maxhealy/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.6.0/src/array.rs /Users/maxhealy/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.6.0/src/array/generated_impl.rs /Users/maxhealy/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.6.0/src/arrayvec.rs /Users/maxhealy/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.6.0/src/arrayvec_drain.rs /Users/maxhealy/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.6.0/src/slicevec.rs /Users/maxhealy/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.6.0/src/tinyvec.rs
+
+/Users/maxhealy/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.6.0/src/lib.rs:
+/Users/maxhealy/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.6.0/src/array.rs:
+/Users/maxhealy/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.6.0/src/array/generated_impl.rs:
+/Users/maxhealy/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.6.0/src/arrayvec.rs:
+/Users/maxhealy/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.6.0/src/arrayvec_drain.rs:
+/Users/maxhealy/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.6.0/src/slicevec.rs:
+/Users/maxhealy/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.6.0/src/tinyvec.rs:
